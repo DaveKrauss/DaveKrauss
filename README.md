@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DaveKrauss
 - 👀 I’m interested in coding, obviously :D
 - 🌱 I’m currently learning as a webDev student of neuefische.de
-  ![first steps](https://tenor.com/de/view/scaler-create-impact-dog-coding-programming-gif-25011983)
-
+  ![first steps]()
 Things i like:
 - food
 - sports
