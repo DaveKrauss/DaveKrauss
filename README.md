@@ -6,7 +6,7 @@
 ---
 And here, we can see the student in its natural habitat:
 
-![coder](https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true)
+
 ---
 Things i like:
 - food
