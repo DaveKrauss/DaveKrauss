@@ -9,6 +9,7 @@
 
 After almost 3 months of coding bootcamp at neuefische.de, I learned a lot - but I also realized how little I do know. The world of coding seems to be unlimited.
 That said, as our CapStone project to finish our bootcamp we had 4 weeks of time, to create a webApp. We came up with "My Trips" - a personal App, designed for frequent travellers to plan, customize and keep track about their journeys.
+
 Have a look at the Repo: [My Trips](https://github.com/miriam-ertl/my-trips) 
 
    
