@@ -16,6 +16,8 @@ Have a look at the Repo: [My Trips](https://github.com/miriam-ertl/my-trips)
 
 Team: [Bonnie](https://github.com/B-Baumeister), [Miriam](https://github.com/miriam-ertl), [Stephan](https://github.com/StephanBergmann)
 
+You can find the hosted version on [Vercel](https://my-trips-weld-sigma.vercel.app/) (mobile first optimized)
+
 
 <img width="408" alt="Screenshot 2023-10-16 at 10 26 11" src="https://github.com/DaveKrauss/DaveKrauss/assets/139886649/ab59e2a0-877c-4d33-a5ba-2ccb9d00cb59">
 
